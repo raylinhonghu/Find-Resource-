@@ -1,0 +1,9 @@
+{
+  "name": "rest-api-find-resource",
+  "version": "",
+  "main":  "index.js",
+  "author": "raylinhonghu",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
