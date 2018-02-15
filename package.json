@@ -1,9 +1,11 @@
 {
   "name": "rest-api-find-resource",
   "version": "",
-  "main":  "index.js",
+  "main": "index.js",
   "author": "raylinhonghu",
   "dependencies": {
-    "express": "^4.16.2"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.5"
   }
 }
